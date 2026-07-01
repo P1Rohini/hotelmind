@@ -1,4 +1,4 @@
-# HotelMind — AI Hotel Concierge
+# HotelMind
 
 An intelligent hotel booking dashboard with a built-in chat assistant ("BookBot") that helps users search, compare, and book hotels through natural conversation.
 
